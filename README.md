@@ -22,5 +22,3 @@
 
 #### To run it locally you will need:
 - LAMP (or Apache and PHP)
-
-Have fun!
