@@ -1,0 +1,10 @@
+!.gitignore
+images
+insert.txt
+*.db.php
+*.jpg
+*.png
+*.bmp
+*.pdf
+*.psd
+*.ico
