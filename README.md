@@ -1,5 +1,4 @@
 ## Salvatore Catapano Architects WebSite
-## Coming soon
 
 ####  Browser tested:
 - Windows:
